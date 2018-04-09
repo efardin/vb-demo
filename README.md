@@ -1,2 +1,2 @@
 # vb-demo
-A quick and dirty VB.NET demo project.
+Demonstrates a simple GUI and a class that performs a calculation based on user input.
